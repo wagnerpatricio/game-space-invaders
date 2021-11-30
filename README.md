@@ -1,3 +1,3 @@
 game-space-invaders
-/Imagens/jogo.jpeg
-/Imagens/jogo2.jpeg
+<img src="/Imagens/jogo.jpeg">
+<img src="/Imagens/jogo2.jpeg">
